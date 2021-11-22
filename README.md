@@ -1,2 +1,3 @@
-# PogoCRM
-A Customer Relationship Manager but better.
+## PogoCRM
+- A Customer Relationship Manager but better.
+#### **[ Developer : Nemesis ]**
